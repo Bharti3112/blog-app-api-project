@@ -41,4 +41,4 @@ This project is a RESTful API for managing a blog application. It allows users t
 3. Build and run the application:
 
 **Testing**
-You can use tools like Postman or Swagger UI to test the API. Swagger UI is available at http://localhost:8080/swagger-ui/index.html.
+- You can use tools like Postman or Swagger UI to test the API. Swagger UI is available at http://localhost:8080/swagger-ui/index.html.
