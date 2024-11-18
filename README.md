@@ -21,9 +21,7 @@ This project is a RESTful API for managing a blog application. It allows users t
 ● Java 17 or later
 ● Maven
 ● MySQL
-● Postman (optional, for testing API)
-
-                                                                            *__*__*
+● Postman (optional, for testing API)                                                      
 
 **Installation**
 1. Clone the repository:
@@ -33,8 +31,8 @@ This project is a RESTful API for managing a blog application. It allows users t
 2.Set up the MySQL database:
 ● Create a database named blog_app.
 ● Update the database configuration in application.properties:
-spring.datasource.url=jdbc:mysql://localhost:8080/blog_app(your url)
-spring.datasource.username=your_mysql_username
-spring.datasource.password=your_mysql_password
+                                                        spring.datasource.url=jdbc:mysql://localhost:8080/blog_app(your url)
+                                                        spring.datasource.username=your_mysql_username
+                                                        spring.datasource.password=your_mysql_password
 
 3. Build and run the application:
