@@ -25,14 +25,17 @@ This project is a RESTful API for managing a blog application. It allows users t
 
 **Installation**
 1. Clone the repository:
-   git clone https://github.com/your-username/blog-app-api.git
-   cd blog-app-api
-   
+  ```bash
+   git clone https://github.com/Bharti3112/blog-app-api-project.git
+   cd blog-app-api-project
+   ```
 2.Set up the MySQL database:
 - Create a database named blog_app.
 - Update the database configuration in application.properties:
-                                                        spring.datasource.url=jdbc:mysql://localhost:8080/blog_app(your url)
-                                                        spring.datasource.username=your_mysql_username
-                                                        spring.datasource.password=your_mysql_password
+ ```
+    spring.datasource.url=jdbc:mysql://localhost:8080/blog_app(your url)
+    spring.datasource.username=your_mysql_username
+    spring.datasource.password=your_mysql_password
+```
 
 3. Build and run the application:
