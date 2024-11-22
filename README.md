@@ -1,4 +1,4 @@
-# blog-app-api-project
+# posts-app-api-project
 This project is a RESTful API for managing a blog application. It allows users to create, read, update, and delete blog posts, manage users, and handle comments. The API is built using Spring Boot and follows best practices for secure and scalable applications.
 
 **Features**
